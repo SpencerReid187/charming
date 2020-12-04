@@ -1,0 +1,19 @@
+{
+  "name": "charming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpencerReid187/charming.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpencerReid187/charming/issues"
+  },
+  "homepage": "https://github.com/SpencerReid187/charming#readme"
+}
